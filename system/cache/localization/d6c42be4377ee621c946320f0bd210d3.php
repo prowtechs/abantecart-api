@@ -1,0 +1,3 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:3:{s:20:"default_italian_name";s:16:"Italian Language";s:22:"default_italian_status";s:6:"Status";s:20:"default_italian_note";s:492:"<b>Attention!</b> Please enable extension and enable language in System->Localizations-><a href="#admin#rt=localisation/language">Languages</a>. 
+		<br><b>Edit text</b>: If you notice incorrect translations, you can correct language text in System->Localizations-><a href="#admin#rt=localisation/language_definitions">Language Definitions</a>
+		<br><b>Missing text:</b> If you add new language you need to update store content (dynamic shopping cart data) to have new language translation.   ";}

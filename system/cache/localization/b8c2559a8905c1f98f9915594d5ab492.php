@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:4:{s:13:"heading_title";s:41:"Your Has Been successfully unsubscribed !";s:12:"text_message";s:66:"You have been successfully unsubscribed from email communications.";s:12:"text_account";s:7:"Account";s:12:"text_success";s:7:"Success";}

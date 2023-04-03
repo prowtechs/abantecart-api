@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:6:{s:13:"heading_title";s:15:"Customer Orders";s:18:"column_customer_id";s:11:"Customer ID";s:15:"column_customer";s:13:"Customer Name";s:12:"column_group";s:14:"Customer Group";s:18:"column_order_count";s:12:"Orders Count";s:12:"column_total";s:5:"Total";}

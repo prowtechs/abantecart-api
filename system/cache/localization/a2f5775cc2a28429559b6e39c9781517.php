@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:7:{s:13:"heading_title";s:21:"Customer Transactions";s:23:"column_transaction_date";s:16:"Transaction Date";s:15:"column_customer";s:13:"Customer Name";s:17:"column_created_by";s:10:"Created By";s:12:"column_debit";s:5:"Debit";s:13:"column_credit";s:6:"Credit";s:23:"column_transaction_type";s:16:"Transaction Type";}

@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:5:{s:15:"default_subject";s:10:"No subject";s:24:"text_default_email_title";s:22:"Form has been submited";s:18:"text_error_message";s:38:"There were some errors in the process.";s:20:"text_success_message";s:31:"Form was submited successfully!";s:14:"error_required";s:23:"This field is required!";}

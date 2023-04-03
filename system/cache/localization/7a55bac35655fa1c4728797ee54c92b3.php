@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:5:{s:13:"heading_title";s:12:"File Uploads";s:17:"column_date_added";s:10:"Date Added";s:11:"column_path";s:4:"File";s:14:"column_section";s:7:"Section";s:13:"text_download";s:16:"to download file";}

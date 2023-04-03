@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:4:{s:10:"text_title";s:5:"Fedex";s:16:"text_description";s:5:"Fedex";s:26:"fedex_error_empty_postcode";s:25:"Error: Empty postal code.";s:22:"fedex_error_no_service";s:80:"Service is not available in your area. Check if your shipping address is correct";}

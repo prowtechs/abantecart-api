@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:2:{s:9:"entry_sms";s:33:" Mobile Phone (SMS Notification) ";s:29:"default_twilio_protocol_title";s:5:" SMS ";}

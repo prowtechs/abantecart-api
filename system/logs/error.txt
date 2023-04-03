@@ -1,0 +1,80 @@
+2023-03-28 12:46:15 - class not exist:  AbanteCart core v.1.3.3 Error: controller class not exist Controllerapiproductfeatured!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 271
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-28 12:46:15 - method not exist:  AbanteCart core v.1.3.3 Error: controller method not exist Controllerapiproductfeatured::main!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 367
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:48:13 - class not exist:  AbanteCart core v.1.3.3 Error: controller class not exist Controllerapiproductfeatured!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 271
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:48:13 - method not exist:  AbanteCart core v.1.3.3 Error: controller method not exist Controllerapiproductfeatured::main!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 367
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:49:53 - class not exist:  AbanteCart core v.1.3.3 Error: controller class not exist ControllerapiproductFeatured!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 271
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:49:53 - method not exist:  AbanteCart core v.1.3.3 Error: controller method not exist ControllerapiproductFeatured::main!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 367
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:50:11 - class not exist:  AbanteCart core v.1.3.3 Error: controller class not exist Controllerapiproductfeatured!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 271
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-03-30 8:50:11 - method not exist:  AbanteCart core v.1.3.3 Error: controller method not exist Controllerapiproductfeatured::main!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 367
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-04-03 10:43:11 - class not exist:  AbanteCart core v.1.3.3 Error: controller class not exist Controllerapiproductfeatured!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 271
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+
+2023-04-03 10:43:12 - method not exist:  AbanteCart core v.1.3.3 Error: controller method not exist Controllerapiproductfeatured::main!
+Trace:
+	#0 E:\xampp1\htdocs\abantecart\core\engine\dispatcher.php on line 367
+	#1 E:\xampp1\htdocs\abantecart\core\engine\api.php on line 90
+	#2 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 246
+	#3 E:\xampp1\htdocs\abantecart\core\engine\router.php on line 86
+	#4 E:\xampp1\htdocs\abantecart\index.php on line 97
+

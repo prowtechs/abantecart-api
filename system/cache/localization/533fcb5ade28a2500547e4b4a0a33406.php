@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:2:{s:9:"entry_sms";s:31:"Mobile Phone (SMS Notification)";s:35:"default_textmarketer_protocol_title";s:5:" SMS ";}

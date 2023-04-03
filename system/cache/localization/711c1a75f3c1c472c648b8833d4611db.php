@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:1:{s:21:"text_empty_collection";s:30:"There are no products to list ";}
